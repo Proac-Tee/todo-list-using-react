@@ -1,11 +1,19 @@
-# todo-list-using-react
+# Todo-list-using-react
+
+## Introduction
 
 The goal of this project is to design the todo list app using react
 
-# To instal dependencies
+## Technologies
 
-use npm install
+- HTML
+- JavaScript
+- React
+
+# To install dependencies
+
+- run npm install
 
 # To start
 
-use npm start
+- run npm start
